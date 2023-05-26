@@ -1,3 +1,11 @@
+# Test Login Information
+
+If you don't want to create an account, feel free to use the test login provided:
+username: testing@testing.com
+password: testing123
+
+Movies can be "hearted" to add to your Account page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
